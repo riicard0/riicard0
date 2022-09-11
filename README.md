@@ -38,6 +38,6 @@
   <a href="https://www.linkedin.com/in/ricard-omartins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.martinsr.dev/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/riicard0)
+  ![Snake animation](https://github.com/riicard0/riicard0/blob/output/github-contribution-grid-snake.svg)
  
 </div>

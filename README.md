@@ -4,12 +4,12 @@
   ##
 
 <!-- Welcome Frase -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hey,+My+name+is+Ricardo+Martins;I'm+24+years+old;I'm+from+Brasil+-+SP;I+study+Front-End+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Ricardo+Martins;I'm+24+years+old;I'm+from+Brazil+-+SP;I'm+studying+Front-End+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 🔭 Looking Job: Front-End Dev
+- 🔭 Looking Job: Front-End
 - 🌱 Learning: Vue.js
 
-
+<!-- Stats -->
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=riicard0&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ricardo Martins github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riicard0&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />

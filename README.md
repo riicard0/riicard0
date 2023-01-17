@@ -1,23 +1,18 @@
 <!-- Welcome Image -->
 <img align="top" width="100%" src="https://raw.githubusercontent.com/gist/riicard0/0c06f033ba656b6006569246d44faf5d/raw/2d5c1a195c0e7e2b1d24f2c19e03380933532179/githubcard2.svg">
 
-<!-- GIF -->
-  <a href="#"><img align="right" alt="Riicard0-pic" height="150" width="150" src="https://i.imgur.com/sZbhHOQ.gif" title="riicard0" /></a>
+  ##
 
-# What's up dear, Ricardo here
+<!-- Welcome Frase -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hey,+My+name+is+Ricardo+Martins;I'm+24+years+old;I'm+from+Brasil+-+SP;I+study+Front-End+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 🔭 Looking Job: Front-End
+- 🔭 Looking Job: Front-End Dev
 - 🌱 Learning: Vue.js
 
-<!-- Profile Views -->
-<p align="left"><img src="https://komarev.com/ghpvc/?username=riicard0&color=green" alt="Profile views" /></p>
 
-<!-- Template Stack -->
-<div align="center">
-  <br>
-  <a href="https://github.com/riicard0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riicard0&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riicard0&layout=compact&langs_count=7&theme=cobalt"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=riicard0&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ricardo Martins github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riicard0&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 <!-- Icons (Languages) -->
@@ -33,6 +28,12 @@
 </div>
   
 ##
+
+<!--
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MthAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+-->
    
 <div align="center"> 
   <!-- Social Media -->
@@ -45,3 +46,20 @@
   ![Snake animation](https://github.com/riicard0/riicard0/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+##
+
+<div align="center">
+  <!-- GIF -->
+  <a href="#"><img align="center" alt="Riicard0-pic" height="150" width="150" src="https://i.imgur.com/sZbhHOQ.gif" title="riicard0" /></a>
+  <br>
+  
+  <!-- Profile Views -->
+  <br>
+  <p align="center"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{riicard0}/count.svg" /></p> 
+  <br>
+</div>
+
+<!-- Footer -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
